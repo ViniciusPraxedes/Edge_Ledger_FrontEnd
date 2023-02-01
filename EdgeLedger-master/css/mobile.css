@@ -1,0 +1,27 @@
+/*What we do section*/
+.boxes {
+  padding: 40px;
+  display: block;
+}
+
+/*Who we are*/
+#who-we-are {
+  display: block;
+}
+
+/*Clients section*/
+.items {
+  padding: 1rem;
+}
+
+.items img {
+  width: 17%;
+  margin: auto;
+  padding-left: 10px;
+}
+
+
+/*Contact Us*/
+#contact-us{
+  display: block;
+}
